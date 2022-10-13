@@ -1,7 +1,7 @@
-<!-- <h1 align="center">Hi 👋, I'm David Cobbina</h1>
-<h3 align="center">I am full stack software engineer with great passion for building high quality applications. I have an extensive experience building frontend (mobile & web) and backend applications.</h3>
+<h1 align="center">Hi 👋, I'm David Cobbina</h1>
+<p align="center">I am full stack software engineer with great passion for building high quality applications. I have an extensive experience building frontend (mobile & web) and backend applications.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=david-legend&label=Profile%20views&color=0e75b6&style=flat" alt="david-legend" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-legend&label=Profile%20views&color=0e75b6&style=flat" alt="david-legend" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-legend" alt="david-legend" /></a> </p>
 
