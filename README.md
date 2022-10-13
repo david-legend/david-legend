@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-legend&label=Profile%20views&color=0e75b6&style=flat" alt="david-legend" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-legend" alt="david-legend" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-legend" alt="david-legend" /></a> </p> -->
 
 <!-- - 👨‍💻 All of my projects are available at [https://davidcobbina.com/](https://davidcobbina.com/)
 
