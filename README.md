@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Cobbina</h1>
+<!-- <h1 align="center">Hi 👋, I'm David Cobbina</h1>
 <h3 align="center">I am full stack software engineer with great passion for building high quality applications. I have an extensive experience building frontend (mobile & web) and backend applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-legend&label=Profile%20views&color=0e75b6&style=flat" alt="david-legend" /> </p>
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-legend&show_icons=true&locale=en" alt="david-legend" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-legend&" alt="david-legend" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-legend&" alt="david-legend" /></p> -->
