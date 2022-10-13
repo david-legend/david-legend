@@ -1,7 +1,7 @@
 <h3>Hi 👋, I'm David Cobbina</h3>
 <p>I am full stack software engineer with great passion for building high quality applications. I have an extensive experience building frontend (mobile & web) and backend applications.</p>
 
-<p align="left"> <img src="https://media.giphy.com/media/6uYiEsX9OdLsD8weGa/giphy.gif" alt="david-legend" /> </p>
+<!-- <p align="left"> <img src="https://media.giphy.com/media/6uYiEsX9OdLsD8weGa/giphy.gif" alt="david-legend" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-legend" alt="david-legend" /></a> </p> -->
 
